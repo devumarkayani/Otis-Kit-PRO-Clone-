@@ -24,7 +24,7 @@ If you've previously installed create-react-app globally via npm install -g crea
 Then open http://localhost:5173/ to see your app.
 
 
-npm  run dev   for vite
+npm  run dev for vite
 
 Get Started Immediately
 
