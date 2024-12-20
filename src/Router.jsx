@@ -1,5 +1,5 @@
 
-import {BrowserRouter as Routers,Route ,Routes, useNavigate, redirect} from 'react-router-dom'
+import {BrowserRouter as Routers,Route ,Routes, useNavigate} from 'react-router-dom'
 import Home from './pages/Home'
 // import Contact from './pages/Contact'
 // import Menu from './pages/Menu'
