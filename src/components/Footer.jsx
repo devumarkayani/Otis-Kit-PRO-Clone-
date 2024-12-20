@@ -338,7 +338,7 @@ function Footer() {
           <Grid lg={12} md={12} xs={12} sm={12}>
              <Box sx={{marginRight:"3rem",textAlign:'center',padding:'2rem  0rem 0.5rem',marginBottom:{xs:'2rem',sm:'2rem'}}}>
                 <Typography variant="body2">
-                    All right reserved. Copyright ©  2023 Otis Kit by
+                    All right reserved. Copyright ©  2024 Otis Kit by
                 <Button variant="text" size="small" href="#" sx={{color:'rgba(35,71,78,0.99)','&:hover':{outline:'none',color:'rgba(35,71,78,0.99)'},fontWeight:"400",}}>
                     Creative Tim.
                 </Button>
