@@ -1,0 +1,14 @@
+.font{
+    background-image: url('../images/rotating-card-front.jpg');
+    background-size: cover ;
+    height: 22.5rem;
+    background-color: transparent;
+    border-radius: 0.5rem;
+}
+.back{
+    background-image: url('../images//rotating-card-bg-back.183088de91adb283a9ae.jpeg');
+    background-size: cover ;
+    height: 22.5rem;
+    background-color: transparent;
+    border-radius: 0.5rem;
+}

@@ -1,0 +1,8 @@
+.background{
+    background-image: url(../images/pattern-lines.svg);
+
+    width:100%;
+    height: auto;
+    background:transparent;
+    background:linear-gradient(195deg, rgb(66, 66, 74), rgb(25, 25, 25));
+}
